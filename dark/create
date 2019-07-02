@@ -1,0 +1,21 @@
+[theme]
+color_1=color_1=$(cat $PWD/$FILE | grep 
+color_2=color_2=$(cat $PWD/$FILE | grep 
+color_3=color_3=$(cat $PWD/$FILE | grep 
+color_4=color_4=$(cat $PWD/$FILE | grep 
+color_5=color_5=$(cat $PWD/$FILE | grep 
+color_6=color_6=$(cat $PWD/$FILE | grep 
+color_7=color_7=$(cat $PWD/$FILE | grep 
+color_8=color_8=$(cat $PWD/$FILE | grep 
+color_9=color_9=$(cat $PWD/$FILE | grep 
+color_10=color_10=$(cat $PWD/$FILE | grep 
+color_11=color_11=$(cat $PWD/$FILE | grep 
+color_12=color_12=$(cat $PWD/$FILE | grep 
+color_13=color_13=$(cat $PWD/$FILE | grep 
+color_14=color_14=$(cat $PWD/$FILE | grep 
+color_15=color_15=$(cat $PWD/$FILE | grep 
+color_16=color_16=$(cat $PWD/$FILE | grep 
+background=background=$(cat $PWD/$FILE | grep 
+foreground=foreground=$(cat $PWD/$FILE | grep 
+tab=#f2f2f2
+style=dark

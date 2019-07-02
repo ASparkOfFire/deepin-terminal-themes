@@ -1,0 +1,28 @@
+[theme]
+color_1=#353535
+export BACKGROUND_COLOR=$COLOR_01
+background=export BACKGROUND_COLOR=$COLOR_01
+color_2=#E64569
+color_3=#89D287
+color_4=#DAB752
+color_5=#439ECF
+export FOREGROUND_COLOR=$COLOR_05
+export CURSOR_COLOR=$COLOR_05
+foreground=export FOREGROUND_COLOR=$COLOR_05
+color_6=#D961DC
+color_7=#64AAAF
+color_8=#B3B3B3
+color_9=#535353
+color_10=#E4859A
+color_11=#A2CCA1
+color_12=#E1E387
+color_13=#6FBBE2
+color_14=#E586E7
+color_15=#96DCDA
+color_16=#DEDEDE
+background=export BACKGROUND_COLOR=$COLOR_01
+background=export BACKGROUND_COLOR=$COLOR_01
+foreground=export FOREGROUND_COLOR=$COLOR_05
+foreground=export FOREGROUND_COLOR=$COLOR_05
+tab=#f2f2f2
+style=dark
